@@ -1,0 +1,14 @@
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\bin\Debug\net6.0\RestaurantApp.DAL.deps.json
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\bin\Debug\net6.0\RestaurantApp.DAL.runtimeconfig.json
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\bin\Debug\net6.0\RestaurantApp.DAL.dll
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\bin\Debug\net6.0\RestaurantApp.DAL.pdb
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.csproj.AssemblyReference.cache
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.AssemblyInfoInputs.cache
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.AssemblyInfo.cs
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.csproj.CoreCompileInputs.cache
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.dll
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\refint\RestaurantApp.DAL.dll
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.pdb
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\RestaurantApp.DAL.genruntimeconfig.cache
+D:\iti\ArabComputers\Back\RestaurantApp\RestaurantApp.DAL\obj\Debug\net6.0\ref\RestaurantApp.DAL.dll
